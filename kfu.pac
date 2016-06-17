@@ -1,4 +1,3 @@
-# username.github.io
 var SN_SERVICE = "PROXY 42.56.189.172:21544";
 
 
